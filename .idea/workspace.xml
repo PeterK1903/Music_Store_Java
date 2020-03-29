@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a933e775-e1e3-482e-a586-a60828063f89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zkx4wXD9HoYWcN9KOgRTsjpjI4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in weekend_homework">
+    <configuration name="All in weekend_homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Instruments in weekend_homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Instruments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Instruments" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellingItems in weekend_homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SellingItems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SellingItems" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Shop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Shop" />
+      <option name="MAIN_CLASS_NAME" value="Shop.ShopTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrumpetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="weekend_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Instruments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Instruments" />
+      <option name="MAIN_CLASS_NAME" value="Instruments.TrumpetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in weekend_homework" />
+        <item itemvalue="JUnit.Instruments in weekend_homework" />
+        <item itemvalue="JUnit.TrumpetTest" />
+        <item itemvalue="JUnit.ShopTest" />
+        <item itemvalue="JUnit.SellingItems in weekend_homework" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a933e775-e1e3-482e-a586-a60828063f89" name="Default Changelist" comment="" />
+      <created>1585396705371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585396705371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="65" key="#Inspections" timestamp="1585403403569">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="65" key="#Inspections/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585403403569" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1585402669422">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585400685643" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585402669422" />
+    <state width="1728" height="234" key="GridCell.Tab.0.bottom" timestamp="1585495600376">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1728" height="234" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585495600376" />
+    <state width="1238" height="263" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585404583102" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585404253803" />
+    <state width="1728" height="234" key="GridCell.Tab.0.center" timestamp="1585495600374">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1728" height="234" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585495600374" />
+    <state width="1238" height="263" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585404583098" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585404253799" />
+    <state width="1728" height="234" key="GridCell.Tab.0.left" timestamp="1585495600372">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1728" height="234" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585495600372" />
+    <state width="1238" height="263" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585404583095" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585404253797" />
+    <state width="1728" height="234" key="GridCell.Tab.0.right" timestamp="1585495600375">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1728" height="234" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585495600375" />
+    <state width="1238" height="263" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585404583100" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585404253801" />
+    <state width="1878" height="263" key="GridCell.Tab.1.bottom" timestamp="1585494057321">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.1.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585494057321" />
+    <state width="1878" height="263" key="GridCell.Tab.1.center" timestamp="1585494057319">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.1.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585494057319" />
+    <state width="1878" height="263" key="GridCell.Tab.1.left" timestamp="1585494057318">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.1.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585494057318" />
+    <state width="1878" height="263" key="GridCell.Tab.1.right" timestamp="1585494057320">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="263" key="GridCell.Tab.1.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585494057320" />
+    <state x="-1249" y="105" key="refactoring.ChangeSignatureDialog" timestamp="1585495289188">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-1249" y="105" key="refactoring.ChangeSignatureDialog/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1585495289188" />
+  </component>
+</project>
